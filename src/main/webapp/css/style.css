@@ -1,0 +1,11 @@
+body {
+    font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+.card .display-4 {
+    font-weight: 600;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+}
